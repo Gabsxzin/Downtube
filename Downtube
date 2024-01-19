@@ -16,9 +16,6 @@ janela.geometry('400x350')
 janela.minsize(width=350,height=300)
 janela.maxsize(width=450,height=400)
 janela.resizable(width=False,height=False)
-janela.iconbitmap('C:\Users\Gabão\Desktop\Python\Projeto downtube\aa.ico')
-
-
 
 #função para msc ou video
 
