@@ -2,6 +2,9 @@
 
 Aplicação desktop desenvolvida em **Python** que permite baixar vídeos e músicas do YouTube de forma simples e rápida através de uma interface gráfica intuitiva.
 
+<img width="1605" height="612" alt="image" src="https://github.com/user-attachments/assets/a7b2744b-c47c-4de7-92a1-5c07b33ee9ab" />
+
+
 ## 📋 Sobre o Projeto
 
 O Downtube foi criado para facilitar o download de conteúdos do YouTube, oferecendo opções para baixar:
